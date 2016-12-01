@@ -1,0 +1,6 @@
+{
+	"title" : "Medusa's Look",
+	"type" : "weapon",
+	"tags" : [ "fun" ],
+	"ignore" : [ "*.psd", "*.vcproj", "*.svn*" ]
+} 
