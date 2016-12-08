@@ -2,7 +2,7 @@
 
 SWEP.AdminOnly = true                          // Is the swep spawnable for admin 
 SWEP.ViewModelFOV = 64                              // How much of the weapon do u see ?
-SWEP.ViewModel = "models/weapons/v_hands.mdl"
+SWEP.ViewModel = "models/weapons/coal/medusa_arms/medusa_arms.mdl"
 SWEP.WorldModel = "models/weapons/w_pistol.mdl"
 SWEP.AutoSwitchTo = false                           // When someone walks over the swep, should I automatically change to your swep ?
 SWEP.Slot = 0                                       // Deside wich slot you want your swep do be in 1 2 3 4 5 6
