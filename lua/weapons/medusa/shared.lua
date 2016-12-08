@@ -30,6 +30,7 @@ SWEP.IgniteCooldown = 0.5
 
 function SWEP:Initialize()			
 	self:SetHoldType(self.HoldType)
+	self:SendWeaponAnim( ACT_VM_DRAW )								
 end
 
 function SWEP:SetupDataTables()
